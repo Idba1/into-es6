@@ -13,7 +13,8 @@ console.log(sum);
 const sun = function(a,b){
     return a+b;
 }
-
+const wed = sun(3,3);
+console.log(wed);
 
 
 // arrow function
