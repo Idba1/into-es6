@@ -17,6 +17,7 @@ const wed = sun(3,3);
 console.log(wed);
 
 
+
 // arrow function
 const mon = (a,b) => a*b;
 const multi = mon(3,4);
